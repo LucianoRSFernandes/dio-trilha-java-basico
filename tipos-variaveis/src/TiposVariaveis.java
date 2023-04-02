@@ -1,4 +1,8 @@
 public class TiposVariaveis {
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         //estudem tipos primitivos
         //estudem a classe String que representa texo na aplicação
